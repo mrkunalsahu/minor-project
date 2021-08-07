@@ -41,4 +41,4 @@ The OTP.py is used to send email on the registered email of admin or when admin 
 ## This project is our college minor project, created in group with ##
 ### ( https://github.com/aditya8600 , " Aditya pandey ")
 ### ( https://github.com/Anandmohan1210, " Anand Mohan Bhagat ")
-### ( https://github.com/mrkunalsahu, " Kunal Sahu ")
+### ( https://github.com/abhishekparmar123, " Abhishek Parmar ")
